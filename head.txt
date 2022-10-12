@@ -1,4 +1,6 @@
 hello gituser1
+<<<<<<< Updated upstream
 error fixed in the head
-hello gityc
-test demo
+=======
+afterswifting the testing branch to main brnach
+>>>>>>> Stashed changes
