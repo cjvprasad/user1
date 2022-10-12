@@ -1,1 +1,2 @@
 hello gituser1
+error fixed in the head
